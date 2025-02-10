@@ -17,7 +17,7 @@ I'm Alberto, a Junior data Scientist and student at 42 Lausanne.
 
 ## 🚀 Nuclio DataScience Projects:
 
-coming soon...
+[<img src="https://github.com/Albertoocbs/ML_reccomendation/blob/main/ML.png" width="100"/>](https://github.com/Albertoocbs/ML_reccomendation)
 
 ------
 
