@@ -1,6 +1,5 @@
 ## Hello World ! 👋
 
-------
 
 #### I'm Alberto, student at 42 Lausanne.
 
