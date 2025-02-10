@@ -7,8 +7,9 @@
 
 ## 🚀 42 School Projects:
 
-[![get_next_line](https://path_to_your_image.png)](https://github.com/Albertoocbs/get_next_line)
-[![so_long]([so_long_circular.png](https://github.com/Albertoocbs/So_long/blob/master/so_long_circular.png))]([https://github.com/Albertoocbs/get_next_line](https://github.com/Albertoocbs/So_long))
+[![get_next_line](https://github.com/Albertoocbs/get_next_line/blob/master/get_next_line_circular.png)](https://github.com/Albertoocbs/get_next_line)
+[![so_long](https://github.com/Albertoocbs/So_long/blob/master/so_long_circular.png)](https://github.com/Albertoocbs/so_long)
+
 
 
 ------
