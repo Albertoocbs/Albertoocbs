@@ -14,7 +14,7 @@
 
 ------
 
-## 🚀 Nuclio Digital School Data Science Projects:
+## 🚀 Nuclio DataScience Projects:
 
 coming soon...
 
