@@ -19,4 +19,7 @@ coming soon...
 ------
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albertoocbs&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albertoocbs&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albertoocbs&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Albertoocbs&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
