@@ -19,6 +19,7 @@ I'm Alberto, a Junior data Scientist and student at 42 Lausanne.
 
 [<img src="https://github.com/Albertoocbs/ML_reccomendation/blob/main/ML.png" width="100"/>](https://github.com/Albertoocbs/ML_reccomendation)
 [<img src="https://github.com/Albertoocbs/CIFAR10/blob/main/cifar.png" width="100"/>](https://github.com/Albertoocbs/CIFAR10)
+[<img src="https://github.com/Albertoocbs/SQL-Querying/blob/main/sql.png" width="100"/>](https://github.com/Albertoocbs/SQL-Querying)
 
 ------
 
