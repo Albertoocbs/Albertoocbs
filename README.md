@@ -19,6 +19,10 @@ coming soon...
 ------
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Albertoocbs&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albertoocbs&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albertoocbs&show_icons=true&include_all_commits=true&count_private=true&theme=radical" width="400"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albertoocbs&layout=compact&theme=radical" width="400"/>
+</p>
