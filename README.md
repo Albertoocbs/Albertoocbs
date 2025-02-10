@@ -12,7 +12,7 @@ I'm Alberto, a Junior data Scientist and student at 42 Lausanne.
 [<img src="https://github.com/Albertoocbs/Born2beroot/blob/main/born2beroot.png" width="100"/>](https://github.com/Albertoocbs/Born2beroot)
 [<img src="https://github.com/Albertoocbs/get_next_line/blob/master/get_next_line_circular.png" width="101"/>](https://github.com/Albertoocbs/get_next_line)
 [<img src="https://github.com/Albertoocbs/So_long/blob/master/so_long_circular.png" width="101"/>](https://github.com/Albertoocbs/so_long)
-
+[<img src="https://github.com/Albertoocbs/minitalk/blob/main/minitalk.png" width="101"/>](https://github.com/Albertoocbs/minitalk)
 
 
 ## 🚀 Nuclio DataScience Projects:
