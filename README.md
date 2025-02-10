@@ -2,7 +2,7 @@
 
 ------
 
-I'm **Alberto**, student at **42 Lausanne**.
+#### I'm Alberto, student at 42 Lausanne.
 
 ------
 
