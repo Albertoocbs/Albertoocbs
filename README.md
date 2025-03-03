@@ -13,6 +13,7 @@ I'm Alberto, a Junior data Scientist and student at 42 Lausanne.
 [<img src="https://github.com/Albertoocbs/get_next_line/blob/master/get_next_line_circular.png" width="101"/>](https://github.com/Albertoocbs/get_next_line)
 [<img src="https://github.com/Albertoocbs/So_long/blob/master/solong.png" width="98"/>](https://github.com/Albertoocbs/so_long)
 [<img src="https://github.com/Albertoocbs/minitalk/blob/main/minitalk.png" width="100"/>](https://github.com/Albertoocbs/minitalk)
+[<img src="https://github.com/Albertoocbs/push_swap/blob/main/image%20pushswap.png?raw=true" width="100"/>](https://github.com/Albertoocbs/push_swap)
 
 
 ## 🚀 Nuclio DataScience Projects:
