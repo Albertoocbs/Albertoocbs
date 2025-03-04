@@ -1,7 +1,7 @@
 ## Hello World ! 👋
 
 
-I'm Alberto, a Junior data Scientist and student at 42 Lausanne.
+I'm Alberto, a Junior Data Scientist and student at 42 Lausanne.
 
 ------
 
